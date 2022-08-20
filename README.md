@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @theuxdesigner
   - 👀 I’m interested in Designing stuffs
 - 🌱 I’m currently learning UX Design
-- 💞️ I’m looking to collaborate on Hackathons
+- 💞️ I’m looking to collaborate with Devlopers on Hackathons
 - 📫 You can Reach me via nishasuruthi1030@gmail.com or via Discord Nisha#4406
 
 <!---
